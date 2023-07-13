@@ -1,0 +1,1 @@
+FROm alpine:latest
